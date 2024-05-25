@@ -1,7 +1,7 @@
 const searchInput = document.getElementById('searchInput');
 const dropdownMenu = document.getElementById('dropdown');
 const options = [
-    { text: 'Photoshop（ps）2024', url: 'https://pan.xunlei.com/s/VNtV4537bKFO6WXQ0riFUqqMA1?pwd=36fd#' },
+    { text: 'Photoshop（ps）2024', url: 'https://pan.xunlei.com/s/VNyhYkUaqlgvq1JaFRqN9HOTA1?pwd=498j#' },
 
     // ... 其他选项
 ];
